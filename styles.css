@@ -1,7 +1,7 @@
 /* Style sheet for Web Developement Skills page */
 
 /* Page Styles*/
-html{
+body {
     background-image: url("images/leaf-background.jpg.jpg") no-repeat center fixed;
     background-size: cover;
 }
